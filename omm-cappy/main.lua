@@ -1,0 +1,3 @@
+-- name: OMM (Cappy)
+-- incompatible:
+-- description: Super Mario Odyssey Cappy.\nVersion: 1.0.0\nAuthor: PeachyPeach\nThanks to: djoslin0, Altiami for network stuff and everyone that play-tested the mod!\n\nThrow Cappy with (X), hold a D-pad button to do a directional throw.\nPress a D-pad button after any throw to perform a homing attack.\n\nCappy can collect coins, 1-up mushrooms, secrets and interact with almost every object.\n\nCollide with Cappy to bounce, or throw Cappy to other players to make them bounce or pop their bubble.

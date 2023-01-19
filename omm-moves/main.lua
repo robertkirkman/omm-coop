@@ -1,0 +1,3 @@
+-- name: OMM (Moves)
+-- incompatible: moveset
+-- description: Super Mario Odyssey Moves.\nVersion: 1.0.0\nAuthor: PeachyPeach\nThanks to: djoslin0, Altiami for network stuff and everyone that play-tested the mod!\n\nIncludes the wall slide, ground pound jump, underwater ground pound and jump, water dash, ground and air rolls, ground, air and midair spins.\n\nBetter ground and air handling, more action cancels.\n\nRemoves fall damage, game over, gives Mario short invulnerability after a burn and collecting a star restores health.
